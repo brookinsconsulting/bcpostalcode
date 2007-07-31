@@ -1,0 +1,81 @@
+.input_error {
+	border: red solid 2px;
+}
+
+.field_error_message_container {
+	font-size: 10px;
+	margin-top: -10px;
+/*	margin-bottom: 5px; */
+}
+
+.field_error_message {
+	font-size: 10px;
+	color: red;
+}
+
+.option_label {
+	margin-bottom: 9px; 
+
+/*            margin-top: 9px;
+*/
+}
+.option_error {
+    margin-top: 9px;
+	background-color: #E9E9C5;
+}
+
+.option_answered {
+	background-color: #FFFFD8;
+}
+
+.option_text_answered {
+	color: green;
+}
+
+.option_text_error {
+
+}
+
+.required_question_text {
+	margin-left: 2px;
+	margin-top: 2px;
+	margin-left: 6px;
+	color: #ef7c21;
+	font-weight: bolder;
+	font-size: 12px;
+}
+
+input text
+{
+        margin-bottom: 3px;
+}
+input box
+{
+        margin-bottom: 3px;
+}
+table.FormArea .box
+{
+	margin-bottom: 3px;
+	width: 230px;
+}
+.form_field_error_message
+{
+	color: red;
+	font-weight: bolder;
+	font-size: 12px;
+	margin-bottom: 10px;
+	margin-top: 2px;
+	padding-right: 10px;
+}
+.field_error_message {
+		color: red;
+	font-weight: bolder;
+	font-size: 12px;
+}
+.required_star {
+	color: red;
+}
+.greentextmsg { 
+	font: 11px;
+	color: #339933;
+}
